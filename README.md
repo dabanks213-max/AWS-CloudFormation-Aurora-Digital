@@ -66,16 +66,6 @@ distribution.
 
 ---
 
-## Repository Structure
-
-```
-├── README.md                   ← You are here
-└── implementation/
-    └── CDA03-CloudFormation-Aurora-Digital.md   ← Full step-by-step breakdown
-```
-
----
-
 ## Next Iterations
 
 - [x] Foundational — EC2 instance with Apache via UserData and Security Group
